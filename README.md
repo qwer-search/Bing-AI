@@ -2,10 +2,10 @@
 
 ## Mục lục
 
-- [Giới Thiệu](https://github.com/chokiproai/Bing-AI#)
+- [Giới Thiệu](https://github.com/chokiproai/Bing-AI#giới-thiệu)
 - [Link](https://github.com/chokiproai/Bing-AI#link)
 - [Video](https://github.com/chokiproai/Bing-AI#video)
-- [Tất cả](https://github.com/chokiproai/Bing-AI#t%E1%BA%A5t-c%E1%BA%A3)
+- [Tất cả](https://github.com/chokiproai/Bing-AI#tất-cả)
 
 ## Giới Thiệu
 
