@@ -29,7 +29,7 @@ Dựa trên Microsoft New Bing, trang web Microsoft New Bing được tùy chỉ
 
 >⭐ [Chat AI](https://ngoctuanai-gpt4.hf.space)
 
->⭐ [Image Creator](https://ngoctuanai-bingai.hf.space/images/create)
+>⭐ [Image Creator](https://ngoctuanai-gpt4.hf.space/create)
 
 ## Video
 
